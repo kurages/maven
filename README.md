@@ -39,7 +39,7 @@
                     <branch>refs/heads/master</branch>
                     <includes><include>**/*</include></includes>
                     <repositoryName>maven</repositoryName>
-                    <repositoryOwner>futchiis</repositoryOwner>
+                    <repositoryOwner>kurages</repositoryOwner>
                 </configuration>
                 <executions>
                     <execution>
@@ -61,9 +61,9 @@
 <project>
   <repositories>
     <repository>
-      <id>futchiis</id>
-      <name>futchiis repository</name>
-      <url>https://raw.githubusercontent.com/futchiis/maven/master</url>
+      <id>kurages</id>
+      <name>kurages repository</name>
+      <url>https://raw.githubusercontent.com/kurages/maven/master</url>
     </repository>
   </repositories>
 </project>
